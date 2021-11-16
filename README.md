@@ -1,4 +1,4 @@
-# #CloudGuruChallenge: Your resume in Azure
+<!-- # #CloudGuruChallenge: Your resume in AWS
 
 Here is my solution to the [Azure Resume Challenge](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-in-azure)
 
@@ -59,3 +59,4 @@ The back-end is an [HTTP triggered Azure Functions](https://docs.microsoft.com/e
 - This is how you can [deploy an Azure Function to Azure with GitHub Actions.](https://github.com/marketplace/actions/azure-functions-action)
 - [Implement .NET testing in GitHub Actions.](https://docs.github.com/en/actions/guides/building-and-testing-net)
 
+ -->
